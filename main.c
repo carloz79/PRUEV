@@ -3,11 +3,11 @@
 
 int main(void)
 {
-  int num = 10;
+  int num = 0;
 
-  for ( num = 0; num < 10; num++)
+  for ( num = 1; num < 4; num++)
   {
-    printf("codigo c /ln");
+    printf("%d num",num);
   }
   
 
